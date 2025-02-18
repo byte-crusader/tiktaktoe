@@ -15,7 +15,6 @@ def add_char(num1, num2):
 
 li = []
 num = 1
-active_symbol = ""
 x = "♥"
 o = "★"
 
